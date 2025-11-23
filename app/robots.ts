@@ -6,7 +6,7 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://your-site.netlify.app/sitemap.xml',
+    sitemap: 'https://lighthearted-malabi-01b2a6.netlify.app/',
   }
 }
 
